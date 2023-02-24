@@ -4,3 +4,4 @@ Dastur kodi:
 javascript,
 Html,
 css,
+Authon: Otabek Qoroboyev
